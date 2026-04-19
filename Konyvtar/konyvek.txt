@@ -1,0 +1,4 @@
+Békakönyv Előd piros 123 2 t
+Cicakönyv Álmos fehér 234 4 t
+Valamimese Ond zöld 345 2 i
+Irodalom Tas kék 456 2 sz
